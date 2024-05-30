@@ -37,3 +37,4 @@ The methodology involves several stages of processing and analysis:
 
 ## Results
 The project achieved a Mean Rank of 1.8 on the test data, indicating the model's effectiveness in matching characters to their lines accurately. The accuracy was 60%, and the Mean Cosine Similarity score was approximately 0.949, demonstrating a high degree of semantic alignment between the training and testing dialogues.
+
