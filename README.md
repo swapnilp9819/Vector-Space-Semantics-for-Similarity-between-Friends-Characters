@@ -24,7 +24,7 @@ This project is divided into several analytical tasks, each designed to improve 
 - **Task 6:** Final Testing on Test Data
 
 ## File Structure
-- **CNN_for_Enhanced_Image_Classification.ipynb**: Jupyter notebook containing all the code and documentation for executing the tasks mentioned above.
+- **NLP_Vector_Space_Semantics_for_Similarity_between_Friends_Characters.ipynb**: Jupyter notebook containing all the code and documentation for executing the tasks mentioned above.
 
 ## Methodology
 The methodology involves several stages of processing and analysis:
